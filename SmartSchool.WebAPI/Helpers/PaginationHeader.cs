@@ -14,5 +14,6 @@ namespace SmartSchool.WebAPI.Helpers
             this.TotalItems = totalItems;
             this.TotalPages = totalPages;
         }
+        
     }
 }
