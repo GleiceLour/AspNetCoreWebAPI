@@ -14,7 +14,6 @@ namespace SmartSchool.WebAPI.Helpers
 
             return age;
 
-           
         }
     }
 }
